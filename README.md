@@ -9,12 +9,12 @@ git clone https://github.com/Suyash-4/keyboard.git
 cd keyboard
 ```
 
-Make sure you have Node.js installed. Then run:
+### 2. Make sure you have Node.js installed. Then run:
 
 ```bash
 npm install
 ```
-Start the development server
+### 3. Start the development server
 ```bash
 npm run dev
 ```
